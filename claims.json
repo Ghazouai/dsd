@@ -1,1 +1,7 @@
-{}
+{
+    "ghazouai": {
+        "username": "Ghazouai",
+        "amount": "500,000",
+        "status": "pending"
+    }
+}
